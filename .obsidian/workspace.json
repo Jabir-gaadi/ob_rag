@@ -11,12 +11,14 @@
             "id": "47fbfa350997ab64",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/Drawing 2026-10-27 12.00.29.excalidraw.md"
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-27 12.00.29.excalidraw"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -200,8 +202,8 @@
   },
   "active": "47fbfa350997ab64",
   "lastOpenFiles": [
-    "Untitled.base",
     "Excalidraw/Drawing 2026-10-27 12.00.29.excalidraw.md",
+    "Untitled.base",
     "Excalidraw",
     "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
     "Untitled 2.base",
