@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "7d99a87c3b638af7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e49f6211f096f19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47fbfa350997ab64",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-27 12.00.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-27 12.00.29.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "219a27bd83dbbc81",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed1be8dbb1d3531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf6366442b580393",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a58ec941b7aea1f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e08beb6bc7e8a982",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5a012b59cef78f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7b13920dda5996f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2c38b79ac6cbb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux & OS Internals/User Space vs Kernel Space.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6b97b604be5eeadf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux & OS Internals/User Space vs Kernel Space.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0c36348c862fb7f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e19718b4bf351f3f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d3887af46a49e8ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux & OS Internals/User Space vs Kernel Space.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "640480d4cd652dbf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "47fbfa350997ab64",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Excalidraw/Drawing 2026-10-27 12.00.29.excalidraw.md",
+    "Excalidraw",
+    "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
+    "Untitled 2.base",
+    "Pasted image 20261024124716.png",
+    "Untitled 1.base",
+    "Pasted image 20261025115449.png",
+    "Pasted image 20261025113436.png",
+    "Pasted image 20261025113414.png",
+    "Pasted image 20261025113318.png",
+    "Pasted image 20261025113251.png",
+    "Pasted image 20261025113228.png",
+    "Pasted image 20261025102640.png",
+    "Pasted image 20261025102619.png",
+    "Pasted image 20261025102358.png",
+    "hh",
+    "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
+    "Devops cloud/DEVOPS_ROADMAP.md",
+    "RAG.base",
+    "learn RAG",
+    "Devops cloud/Linux & OS Internals",
+    "Welcome.md",
+    "Devops cloud/personalized-devops-engineer-roadmap/vite.config.ts",
+    "Devops cloud/personalized-devops-engineer-roadmap/tsconfig.json",
+    "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Start here.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Plugins make Obsidian special for you.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Guides/Link notes.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Guides/Get started with Obsidian.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Guides/Create your first note.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Guides/Create a vault.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Task.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Table.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Strikethrough.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Math.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Lists.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Links.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Internal link.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Inline code.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Images.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Horizontal divider.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Highlighting.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Heading.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Format your notes.md"
+  ]
+}
