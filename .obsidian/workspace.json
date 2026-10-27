@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,9 +119,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux & OS Internals/User Space vs Kernel Space.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
@@ -200,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47fbfa350997ab64",
+  "active": "a58ec941b7aea1f1",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-10-27 12.00.29.excalidraw.md",
     "Untitled.base",
