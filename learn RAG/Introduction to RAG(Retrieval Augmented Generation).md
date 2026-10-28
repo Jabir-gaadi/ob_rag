@@ -31,7 +31,7 @@ In general it working to compute a relevance score between a query and a doc usi
 
 Overall, BM25 is based around three questions, with no requirement for neural networks (refer to the image below again):
 
-![[Pasted image 20261025100346.png|657]]
+![[Pasted image 20261027183745.png|598]]
 
 **BM25 asks three simple questions:**
 
