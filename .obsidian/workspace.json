@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux & OS Internals/User Space vs Kernel Space.md",
+                "file": "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn RAG/Pasted image 20261025095901.png",
+                "file": "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -224,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "064418d23560f9b2",
+  "active": "0c36348c862fb7f5",
   "lastOpenFiles": [
     "learn RAG/woking with vectors.md",
     "Pasted image 20261027221315.png",
