@@ -23,14 +23,12 @@
             "id": "064418d23560f9b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
-                "mode": "preview",
-                "source": false
+                "file": "learn RAG/woking with vectors.md"
               },
-              "icon": "lucide-file",
-              "title": "Introduction to RAG(Retrieval Augmented Generation)"
+              "icon": "excalidraw-icon",
+              "title": "woking with vectors"
             }
           },
           {
@@ -106,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a012b59cef78f74",
@@ -185,8 +182,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux & OS Internals/User Space vs Kernel Space.md",
-                "followCursor": false,
+                "file": "learn RAG/woking with vectors.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -209,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 799.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,23 +221,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c36348c862fb7f5",
+  "active": "064418d23560f9b2",
   "lastOpenFiles": [
-    "learn RAG/woking with vectors.md",
-    "Pasted image 20261027221315.png",
-    "Pasted image 20261027220926.png",
-    "Pasted image 20261027215744.png",
-    "Pasted image 20261027215336.png",
-    "Pasted image 20261027215321.png",
-    "Pasted image 20261027203835.png",
-    "Pasted image 20261027203438.png",
-    "Pasted image 20261027203337.png",
-    "Pasted image 20261027203142.png",
-    "Pasted image 20261027202808.png",
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
+    "image_rag/Pasted image 20261027221315.png",
+    "image_rag/Pasted image 20261027220926.png",
+    "image_rag/Pasted image 20261027215744.png",
+    "image_rag/Pasted image 20261027215321.png",
+    "image_rag/Pasted image 20261027203835.png",
+    "image_rag/Pasted image 20261027203438.png",
+    "image_rag/Pasted image 20261027203337.png",
+    "image_rag/Pasted image 20261027203142.png",
+    "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
+    "learn RAG/woking with vectors.md",
+    "image_rag/Pasted image 20261027215336.png",
+    "image_rag/Pasted image 20261027202808.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
     "Untitled.base",
     "image_rag",
     "Excalidraw",
