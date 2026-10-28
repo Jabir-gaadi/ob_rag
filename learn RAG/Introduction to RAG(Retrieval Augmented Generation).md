@@ -47,6 +47,19 @@ in the first we saw that The curve how it up in first and how it continue after 
 ==🟢This is `f(qᵢ, D)` combined with `k₁` that controls saturation==
 Term Frequency Saturation:
 ![[Pasted image 20261025102128.png]]
+==🟡The question here is why we use k as paramter and we dont use log or ln:==
+in this formula of term saturation :
+![[Pasted image 20261028104931.png|277]]
+let take L = 1 so the formula will bccome : 
+![[Pasted image 20261028105050.png]]
+and for k = 1.5
+so here if we calculate the limite of this function :
+![[Pasted image 20261028105519.png|240]] 
+k + 1 = 2.5
+well the contribution will never up to 2.5 even if the term repeated 1000 of times.
+but if we use here logarithm like idf.
+
+
 3. **==🔴“Is this document unusually long?”==**
 A 50-page paper will naturally contain more keywords than a 5-page paper. BM25 levels the playing field so longer documents don’t cheat their way to the top.
 

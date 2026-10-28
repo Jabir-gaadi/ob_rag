@@ -23,22 +23,14 @@
             "id": "064418d23560f9b2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "learn RAG/woking with vectors.md"
+                "file": "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "woking with vectors"
-            }
-          },
-          {
-            "id": "f65d1ef232d95e1f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "Introduction to RAG(Retrieval Augmented Generation)"
             }
           }
         ],
@@ -104,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a012b59cef78f74",
@@ -182,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn RAG/woking with vectors.md",
+                "file": "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 799.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,6 +216,11 @@
   },
   "active": "064418d23560f9b2",
   "lastOpenFiles": [
+    "Pasted image 20261028105519.png",
+    "Pasted image 20261028105050.png",
+    "Pasted image 20261028104931.png",
+    "Pasted image 20261028104742.png",
+    "learn RAG/woking with vectors.md",
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
     "image_rag/Pasted image 20261027221315.png",
     "image_rag/Pasted image 20261027220926.png",
@@ -231,11 +229,7 @@
     "image_rag/Pasted image 20261027203835.png",
     "image_rag/Pasted image 20261027203438.png",
     "image_rag/Pasted image 20261027203337.png",
-    "image_rag/Pasted image 20261027203142.png",
     "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
-    "learn RAG/woking with vectors.md",
-    "image_rag/Pasted image 20261027215336.png",
-    "image_rag/Pasted image 20261027202808.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Untitled.base",
