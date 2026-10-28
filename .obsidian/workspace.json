@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a012b59cef78f74",
@@ -214,12 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "064418d23560f9b2",
+  "active": "cf6366442b580393",
   "lastOpenFiles": [
-    "Pasted image 20261028105519.png",
-    "Pasted image 20261028105050.png",
-    "Pasted image 20261028104931.png",
-    "Pasted image 20261028104742.png",
+    "image_rag/Pasted image 20261028105519.png",
+    "image_rag/Pasted image 20261028105050.png",
+    "image_rag/Pasted image 20261028104931.png",
+    "image_rag/Pasted image 20261028104742.png",
     "learn RAG/woking with vectors.md",
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
     "image_rag/Pasted image 20261027221315.png",
