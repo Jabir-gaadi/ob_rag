@@ -57,8 +57,19 @@ so here if we calculate the limite of this function :
 ![[Pasted image 20261028105519.png|240]] 
 k + 1 = 2.5
 well the contribution will never up to 2.5 even if the term repeated 1000 of times.
-but if we use here logarithm like idf.
+but if we use here logarithm like idf, so even it up slowly it dosnt have Upper Bound:
+![[Pasted image 20261028113835.png]]
 
+There are three technical reasons:
+
+ ==🟣**Bounded Saturation:**== The BM25 formula ensures that the contribution of the frequency factor does not increase indefinitely. It caps out at a strict upper limit.
+    
+ ==🟣**Tunability:**== We can adjust the parameter $k_1$ to control exactly how much term repetition influences the final ranking.
+    
+ ==🟣**Length Integration:**== BM25 directly links this term saturation to the document's length:
+    $$\frac{f(k_1+1)} {f+k_1\left(1-b+b\frac{\vert{}d\vert{}}{avgdl}\right)}$$
+
+==🔴This means the length of the document directly affects how quickly the Term Frequency (TF) contribution approaches its upper bound.==
 
 3. **==🔴“Is this document unusually long?”==**
 A 50-page paper will naturally contain more keywords than a 5-page paper. BM25 levels the playing field so longer documents don’t cheat their way to the top.
