@@ -11,14 +11,12 @@
             "id": "b212b297cae78512",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Devops cloud/DEVOPS_ROADMAP.md",
-                "mode": "preview",
-                "source": false
+                "file": "image_rag/Pasted image 20261024114745.png"
               },
-              "icon": "lucide-file",
-              "title": "DEVOPS_ROADMAP"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261024114745"
             }
           }
         ]
@@ -202,13 +200,20 @@
   },
   "active": "cf6366442b580393",
   "lastOpenFiles": [
+    "image_rag/Pasted image 20261024124735.png",
+    "image_rag/Pasted image 20261025102128.png",
+    "image_rag/Pasted image 20261025102619.png",
+    "image_rag/Pasted image 20261025102640.png",
+    "image_rag/Pasted image 20261025113228.png",
+    "image_rag/Pasted image 20261025113251.png",
+    "image_rag/Pasted image 20261025113318.png",
+    "image_rag/Pasted image 20261025113436.png",
+    "image_rag/Pasted image 20261025115449.png",
+    "image_rag/Pasted image 20261027202808.png",
+    "image_rag/Pasted image 20261027203337.png",
+    "Devops cloud/DEVOPS_ROADMAP.md",
     "Excalidraw/Drawing 2026-11-02 09.25.56.excalidraw.md",
     "Excalidraw/Drawing 2026-11-01 11.46.43.excalidraw.md",
-    "Pasted image 20261102092721.png",
-    "Pasted image 20261102093108.png",
-    "learn RAG/image_rag/Pasted image 20261102142331.png",
-    "Pasted image 20261101115351.png",
-    "Pasted image 20261028113835.png",
     "learn RAG/woking with vectors.md",
     "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
     "Excalidraw/Drawing 2026-11-02 14.41.18.excalidraw.md",
@@ -218,21 +223,15 @@
     "learn RAG/Introduction to RAG(Retrieval Augmented Generation) 1.md",
     "Untitled",
     "Excalidraw",
-    "learn RAG/image_rag/Pasted image 20261028105519.png",
-    "learn RAG/image_rag/Pasted image 20261028105050.png",
-    "learn RAG/image_rag/Pasted image 20261028104931.png",
-    "learn RAG/image_rag/Pasted image 20261028104742.png",
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
-    "learn RAG/image_rag/Pasted image 20261027221315.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Untitled.base",
-    "learn RAG/image_rag",
+    "image_rag",
     "Untitled 2.base",
     "Untitled 1.base",
     "hh",
     "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
-    "Devops cloud/DEVOPS_ROADMAP.md",
     "RAG.base",
     "Welcome.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
