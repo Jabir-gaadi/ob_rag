@@ -4,105 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5e49f6211f096f19",
+        "id": "f7f584a7f5659117",
         "type": "tabs",
         "children": [
           {
-            "id": "207220af7606b7eb",
+            "id": "b212b297cae78512",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "learn RAG/woking with vectors.md"
+                "file": "Devops cloud/DEVOPS_ROADMAP.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "woking with vectors"
-            }
-          },
-          {
-            "id": "064418d23560f9b2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f1c3fe6632709f2f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-01 11.46.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-01 11.46.43.excalidraw"
-            }
-          },
-          {
-            "id": "05788b78ce873d08",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-02 09.25.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-02 09.25.56.excalidraw"
-            }
-          },
-          {
-            "id": "9b752b4ba9830736",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-02 11.02.19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-02 11.02.19.excalidraw"
-            }
-          },
-          {
-            "id": "72fee1e75a4f072e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-02 11.05.45.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-02 11.05.45.excalidraw"
-            }
-          },
-          {
-            "id": "57cee1e18d632738",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-02 14.17.24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-02 14.17.24.excalidraw"
-            }
-          },
-          {
-            "id": "85931a5e133957d3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-02 14.41.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-02 14.41.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "DEVOPS_ROADMAP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,39 +200,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "064418d23560f9b2",
+  "active": "cf6366442b580393",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-11-02 09.25.56.excalidraw.md",
+    "Excalidraw/Drawing 2026-11-01 11.46.43.excalidraw.md",
+    "Pasted image 20261102092721.png",
+    "Pasted image 20261102093108.png",
+    "learn RAG/image_rag/Pasted image 20261102142331.png",
+    "Pasted image 20261101115351.png",
+    "Pasted image 20261028113835.png",
+    "learn RAG/woking with vectors.md",
     "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
     "Excalidraw/Drawing 2026-11-02 14.41.18.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 14.17.24.excalidraw.md",
-    "Pasted image 20261102142331.png",
     "Excalidraw/Drawing 2026-11-02 11.05.45.excalidraw.md",
-    "Excalidraw/Drawing 2026-11-01 11.46.43.excalidraw.md",
-    "learn RAG/woking with vectors.md",
     "Excalidraw/Drawing 2026-11-02 11.02.19.excalidraw.md",
-    "Excalidraw/Drawing 2026-11-02 09.25.56.excalidraw.md",
-    "Pasted image 20261102093108.png",
-    "Pasted image 20261102092721.png",
-    "Pasted image 20261101115351.png",
+    "learn RAG/Introduction to RAG(Retrieval Augmented Generation) 1.md",
+    "Untitled",
     "Excalidraw",
-    "Pasted image 20261028113835.png",
-    "image_rag/Pasted image 20261028105519.png",
-    "image_rag/Pasted image 20261028105050.png",
-    "image_rag/Pasted image 20261028104931.png",
-    "image_rag/Pasted image 20261028104742.png",
+    "learn RAG/image_rag/Pasted image 20261028105519.png",
+    "learn RAG/image_rag/Pasted image 20261028105050.png",
+    "learn RAG/image_rag/Pasted image 20261028104931.png",
+    "learn RAG/image_rag/Pasted image 20261028104742.png",
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
-    "image_rag/Pasted image 20261027221315.png",
+    "learn RAG/image_rag/Pasted image 20261027221315.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Untitled.base",
-    "image_rag",
+    "learn RAG/image_rag",
     "Untitled 2.base",
     "Untitled 1.base",
     "hh",
     "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
     "Devops cloud/DEVOPS_ROADMAP.md",
     "RAG.base",
-    "learn RAG",
     "Welcome.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Start here.md",
@@ -326,8 +246,6 @@
     "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Table.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Strikethrough.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Math.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Lists.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Links.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Internal link.md"
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Lists.md"
   ]
 }
