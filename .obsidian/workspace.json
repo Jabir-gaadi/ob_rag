@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "f7f584a7f5659117",
+        "id": "65088ac14c32c806",
         "type": "tabs",
         "children": [
           {
-            "id": "b212b297cae78512",
+            "id": "b64e59ddcc5fbdc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User Space vs Kernel Space"
+            }
+          },
+          {
+            "id": "13c7e6c2c3da3e69",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "learn RAG/woking with vectors.md"
+                "file": "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction.md"
               },
               "icon": "excalidraw-icon",
-              "title": "woking with vectors"
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "4cad64ef89ae58cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "part 1 Virtualization"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,8 +225,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf6366442b580393",
+  "active": "4cad64ef89ae58cf",
   "lastOpenFiles": [
+    "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction.md",
+    "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
+    "Excalidraw",
+    "Devops cloud/BOOK Operating Systems Three Easy Pieces",
+    "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
+    "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction to Operating Systems",
+    "Devops cloud/DEVOPS_ROADMAP.md",
+    "learn RAG/woking with vectors.md",
     "learn RAG/image_rag/Pasted image 20261024114745.png",
     "learn RAG/image_rag/Pasted image 20261024124735.png",
     "learn RAG/image_rag/Pasted image 20261025102128.png",
@@ -210,19 +245,14 @@
     "learn RAG/image_rag/Pasted image 20261025113318.png",
     "learn RAG/image_rag/Pasted image 20261025113436.png",
     "learn RAG/image_rag/Pasted image 20261025115449.png",
-    "learn RAG/image_rag/Pasted image 20261027202808.png",
-    "Devops cloud/DEVOPS_ROADMAP.md",
     "Excalidraw/Drawing 2026-11-02 09.25.56.excalidraw.md",
     "Excalidraw/Drawing 2026-11-01 11.46.43.excalidraw.md",
-    "learn RAG/woking with vectors.md",
     "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
     "Excalidraw/Drawing 2026-11-02 14.41.18.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 14.17.24.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 11.05.45.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 11.02.19.excalidraw.md",
     "learn RAG/Introduction to RAG(Retrieval Augmented Generation) 1.md",
-    "Untitled",
-    "Excalidraw",
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -231,8 +261,6 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "hh",
-    "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
-    "RAG.base",
     "Welcome.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Start here.md",
@@ -243,8 +271,6 @@
     "squashfs-root/resources/obsidian.asar/sandbox/Guides/Create a vault.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Task.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Table.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Strikethrough.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Math.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Lists.md"
+    "squashfs-root/resources/obsidian.asar/sandbox/Formatting/Strikethrough.md"
   ]
 }
