@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md"
+                "file": "Who say python easy/crayzy_concepts.md"
               },
               "icon": "excalidraw-icon",
-              "title": "part 1 Virtualization"
+              "title": "crayzy_concepts"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "a7bf1c129bb4ef3e",
   "lastOpenFiles": [
-    "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction.md",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
+    "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction.md",
     "Devops cloud/resources.md",
     "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
     "Devops cloud/Prompted.md",
