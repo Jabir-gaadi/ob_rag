@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Who say python easy/crayzy_concepts.md"
+                "file": "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md"
               },
               "icon": "excalidraw-icon",
-              "title": "crayzy_concepts"
+              "title": "part 1 Virtualization"
             }
           }
         ]
@@ -200,11 +200,14 @@
   },
   "active": "a7bf1c129bb4ef3e",
   "lastOpenFiles": [
-    "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction.md",
-    "Devops cloud/resources.md",
-    "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
+    "Devops cloud/DEVOPS_ROADMAP.md",
     "Devops cloud/Prompted.md",
+    "Devops cloud/resources.md",
+    "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
+    "Who say python easy/crayzy_concepts.md",
+    "Who say python easy",
+    "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
     "Excalidraw/Resources.md",
     "Devops cloud/images",
     "Devops cloud/images/Pasted image 20261105185244.png",
@@ -220,7 +223,6 @@
     "Excalidraw",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction to Operating Systems",
-    "Devops cloud/DEVOPS_ROADMAP.md",
     "learn RAG/woking with vectors.md",
     "Excalidraw/Drawing 2026-11-02 09.25.56.excalidraw.md",
     "Excalidraw/Drawing 2026-11-01 11.46.43.excalidraw.md",
@@ -236,7 +238,6 @@
     "Untitled.base",
     "learn RAG/image_rag",
     "Untitled 2.base",
-    "Untitled 1.base",
     "Welcome.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Start here.md",
