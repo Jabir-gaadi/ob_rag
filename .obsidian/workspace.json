@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e9154077ebc9aaec",
+        "id": "c3bb8462ed718470",
         "type": "tabs",
         "children": [
           {
-            "id": "a7bf1c129bb4ef3e",
+            "id": "bc75127b4b119b40",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition/1 chapter THE BIG PICTURE.md"
+                "file": "pygame/pygame_concepts.md"
               },
               "icon": "excalidraw-icon",
-              "title": "1 chapter THE BIG PICTURE"
-            }
-          },
-          {
-            "id": "b074b2652553a6de",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Who say python easy/crayzy_concepts.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "crayzy_concepts"
+              "title": "pygame_concepts"
             }
           }
         ]
@@ -104,25 +92,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff2c38b79ac6cbb6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
             "id": "6b97b604be5eeadf",
             "type": "leaf",
             "state": {
@@ -191,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,31 +179,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7bf1c129bb4ef3e",
+  "active": "bc75127b4b119b40",
   "lastOpenFiles": [
+    "Pasted image 20261116175819.png",
+    "Pasted image 20261116175734.png",
+    "Pasted image 20261116175532.png",
+    "Pasted image 20261116175452.png",
+    "Pasted image 20261116175224.png",
+    "Pasted image 20261116174153.png",
+    "Pasted image 20261116174042.png",
+    "Pasted image 20261116174002.png",
+    "Pasted image 20261116173945.png",
+    "Pasted image 20261116172102.png",
+    "Pasted image 20261116171829.png",
+    "pygame/pygame_concepts.md",
+    "pygame",
     "Who say python easy/crayzy_concepts.md",
-    "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
     "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition/1 chapter THE BIG PICTURE.md",
+    "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
     "Devops cloud/Prompted.md",
     "Devops cloud/DEVOPS_ROADMAP.md",
     "Devops cloud/resources.md",
     "Excalidraw",
     "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition",
-    "Devops cloud/images/Pasted image 20261112144356.png",
-    "Devops cloud/images/Pasted image 20261112135743.png",
-    "Devops cloud/images/Pasted image 20261112135656.png",
-    "Devops cloud/images/Pasted image 20261112135459.png",
-    "Devops cloud/images/Pasted image 20261112134343.png",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction.md",
     "Who say python easy",
     "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
     "Excalidraw/Resources.md",
     "Devops cloud/images",
-    "Devops cloud/images/Pasted image 20261105185244.png",
-    "Devops cloud/images/Pasted image 20261105185224.png",
-    "Devops cloud/images/Pasted image 20261105185211.png",
-    "Devops cloud/images/Pasted image 20261105185157.png",
-    "Devops cloud/images/Pasted image 20261105185152.png",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction to Operating Systems",
     "learn RAG/woking with vectors.md",
@@ -250,13 +222,10 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Untitled.base",
-    "learn RAG/image_rag",
     "Welcome.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Start here.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Plugins make Obsidian special for you.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Guides/Link notes.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Guides/Get started with Obsidian.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Guides/Create your first note.md"
+    "squashfs-root/resources/obsidian.asar/sandbox/Guides/Link notes.md"
   ]
 }
