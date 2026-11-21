@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "645bed69f744f842",
+        "id": "9568afe2a303bd3f",
         "type": "tabs",
         "children": [
           {
-            "id": "47d4232a5833cad8",
+            "id": "0f65186e02c29f3d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "pygame/pygame_concepts.md"
+                "file": "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "pygame_concepts"
+              "icon": "lucide-file",
+              "title": "Introduction to RAG(Retrieval Augmented Generation)"
             }
           }
         ]
@@ -198,8 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf6366442b580393",
+  "active": "0f65186e02c29f3d",
   "lastOpenFiles": [
+    "Pasted image 20261028113835.png.md",
+    "9, 0, 0], [9, 0, 0], [9, 0, 0.md",
+    "pygame/pygame_concepts.md",
     "pygame/image/Pasted image 20261116170044.png",
     "pygame/image/Pasted image 20261117143450.png",
     "pygame/image/Pasted image 20261117143303.png",
@@ -210,12 +215,10 @@
     "pygame/image/Pasted image 20261117102253.png",
     "pygame/image/Pasted image 20261117102211.png",
     "pygame/image/Pasted image 20261117102140.png",
-    "pygame/image/Pasted image 20261117102108.png",
     "pygame/image",
     "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Drawing 2026-11-21 15.25.39.excalidraw.md",
     "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition/1 chapter THE BIG PICTURE.md",
     "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition",
-    "pygame/pygame_concepts.md",
     "pygame",
     "Who say python easy/crayzy_concepts.md",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
@@ -244,7 +247,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Welcome.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Start here.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Plugins make Obsidian special for you.md"
+    "squashfs-root/resources/obsidian.asar/sandbox/Start here.md"
   ]
 }
