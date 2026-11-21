@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3bb8462ed718470",
+        "id": "645bed69f744f842",
         "type": "tabs",
         "children": [
           {
-            "id": "bc75127b4b119b40",
+            "id": "47d4232a5833cad8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -158,6 +158,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1402116684e16b7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pygame/pygame_concepts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
           }
         ],
         "currentTab": 4
@@ -179,23 +198,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc75127b4b119b40",
+  "active": "cf6366442b580393",
   "lastOpenFiles": [
-    "Pasted image 20261116175819.png",
-    "Pasted image 20261116175734.png",
-    "Pasted image 20261116175532.png",
-    "Pasted image 20261116175452.png",
-    "Pasted image 20261116175224.png",
-    "Pasted image 20261116174153.png",
-    "Pasted image 20261116174042.png",
-    "Pasted image 20261116174002.png",
-    "Pasted image 20261116173945.png",
-    "Pasted image 20261116172102.png",
-    "Pasted image 20261116171829.png",
+    "pygame/image/Pasted image 20261116170044.png",
+    "pygame/image/Pasted image 20261117143450.png",
+    "pygame/image/Pasted image 20261117143303.png",
+    "pygame/image/Pasted image 20261117143243.png",
+    "pygame/image/Pasted image 20261117102431.png",
+    "pygame/image/Pasted image 20261117102409.png",
+    "pygame/image/Pasted image 20261117102317.png",
+    "pygame/image/Pasted image 20261117102253.png",
+    "pygame/image/Pasted image 20261117102211.png",
+    "pygame/image/Pasted image 20261117102140.png",
+    "pygame/image/Pasted image 20261117102108.png",
+    "pygame/image",
+    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Drawing 2026-11-21 15.25.39.excalidraw.md",
+    "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition/1 chapter THE BIG PICTURE.md",
+    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition",
     "pygame/pygame_concepts.md",
     "pygame",
     "Who say python easy/crayzy_concepts.md",
-    "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition/1 chapter THE BIG PICTURE.md",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
     "Devops cloud/Prompted.md",
     "Devops cloud/DEVOPS_ROADMAP.md",
@@ -220,12 +242,9 @@
     "learn RAG/Introduction to RAG(Retrieval Augmented Generation) 1.md",
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Untitled.base",
     "Welcome.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
     "squashfs-root/resources/obsidian.asar/sandbox/Start here.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Plugins make Obsidian special for you.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Guides/Link notes.md"
+    "squashfs-root/resources/obsidian.asar/sandbox/Plugins make Obsidian special for you.md"
   ]
 }
