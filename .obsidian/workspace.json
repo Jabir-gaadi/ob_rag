@@ -11,17 +11,28 @@
             "id": "0f65186e02c29f3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
-                "mode": "source",
-                "source": false
+                "file": "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Networking Reading Order — DevOps Roadmap.md"
               },
-              "icon": "lucide-file",
-              "title": "Introduction to RAG(Retrieval Augmented Generation)"
+              "icon": "excalidraw-icon",
+              "title": "Networking Reading Order — DevOps Roadmap"
+            }
+          },
+          {
+            "id": "a933706cc9681e01",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Networking Reading Order — DevOps Roadmap.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Networking Reading Order — DevOps Roadmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +211,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f65186e02c29f3d",
+  "active": "a933706cc9681e01",
   "lastOpenFiles": [
+    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Phase-1.md",
+    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Networking Reading Order — DevOps Roadmap.md",
+    "Pasted image 20261121153110.png",
+    "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
     "Pasted image 20261028113835.png.md",
     "9, 0, 0], [9, 0, 0], [9, 0, 0.md",
     "pygame/pygame_concepts.md",
@@ -214,9 +229,7 @@
     "pygame/image/Pasted image 20261117102317.png",
     "pygame/image/Pasted image 20261117102253.png",
     "pygame/image/Pasted image 20261117102211.png",
-    "pygame/image/Pasted image 20261117102140.png",
     "pygame/image",
-    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Drawing 2026-11-21 15.25.39.excalidraw.md",
     "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition/1 chapter THE BIG PICTURE.md",
     "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition",
     "pygame",
@@ -237,7 +250,6 @@
     "learn RAG/woking with vectors.md",
     "Excalidraw/Drawing 2026-11-02 09.25.56.excalidraw.md",
     "Excalidraw/Drawing 2026-11-01 11.46.43.excalidraw.md",
-    "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
     "Excalidraw/Drawing 2026-11-02 14.41.18.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 14.17.24.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 11.05.45.excalidraw.md",
@@ -246,7 +258,6 @@
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
     "Excalidraw/Scripts/Downloaded",
     "Welcome.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
-    "squashfs-root/resources/obsidian.asar/sandbox/Start here.md"
+    "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md"
   ]
 }
