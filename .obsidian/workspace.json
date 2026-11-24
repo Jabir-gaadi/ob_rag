@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9568afe2a303bd3f",
+        "id": "e9154077ebc9aaec",
         "type": "tabs",
         "children": [
           {
-            "id": "0f65186e02c29f3d",
+            "id": "a7bf1c129bb4ef3e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Networking Reading Order — DevOps Roadmap.md"
+                "file": "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Phase-1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Networking Reading Order — DevOps Roadmap"
+              "title": "Phase-1"
             }
           },
           {
-            "id": "a933706cc9681e01",
+            "id": "953af4799a00d8a7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "pygame/pygame_concepts.md"
+                "file": "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/neso_academy_subneting.md"
               },
               "icon": "excalidraw-icon",
-              "title": "pygame_concepts"
+              "title": "neso_academy_subneting"
             }
           }
         ],
@@ -105,6 +105,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ff2c38b79ac6cbb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
             "id": "6b97b604be5eeadf",
             "type": "leaf",
             "state": {
@@ -171,28 +190,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "1402116684e16b7f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "pygame/pygame_concepts.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -211,52 +211,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a933706cc9681e01",
+  "active": "953af4799a00d8a7",
   "lastOpenFiles": [
     "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Phase-1.md",
-    "Pasted image 20261121220400.png",
-    "Pasted image 20261121220333.png",
-    "Pasted image 20261121220253.png",
-    "Pasted image 20261121214301.png",
-    "Bandwidth, Throughput, Latency و Jitter.md",
-    "Pasted image 20261121203735.png",
-    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Networking Reading Order — DevOps Roadmap.md",
-    "Pasted image 20261121182416.png",
-    "Pasted image 20261121182339.png",
-    "Pasted image 20261121182306.png",
-    "Pasted image 20261121153110.png",
-    "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
-    "Pasted image 20261028113835.png.md",
-    "9, 0, 0], [9, 0, 0], [9, 0, 0.md",
-    "pygame/pygame_concepts.md",
-    "pygame/image/Pasted image 20261116170044.png",
-    "pygame/image",
-    "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition/1 chapter THE BIG PICTURE.md",
-    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition",
-    "pygame",
-    "Who say python easy/crayzy_concepts.md",
-    "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
-    "Devops cloud/Prompted.md",
-    "Devops cloud/DEVOPS_ROADMAP.md",
-    "Devops cloud/resources.md",
+    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/neso_academy_subneting.md",
     "Excalidraw",
+    "Who say python easy/crayzy_concepts.md",
+    "pygame/image/Pasted image 20261117143450.png",
+    "pygame/image/Pasted image 20261117143303.png",
+    "pygame/image/Pasted image 20261117143243.png",
+    "pygame/image/Pasted image 20261117102431.png",
+    "pygame/image/Pasted image 20261117102409.png",
+    "pygame/image/Pasted image 20261117102317.png",
+    "pygame/image/Pasted image 20261117102253.png",
+    "pygame/image/Pasted image 20261117102211.png",
+    "pygame/image/Pasted image 20261117102140.png",
+    "pygame/image/Pasted image 20261117102108.png",
+    "pygame/pygame_concepts.md",
+    "pygame/image",
+    "pygame",
+    "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition/1 chapter THE BIG PICTURE.md",
     "Devops cloud/BOOK HOW LINUX WORKS 3rd Edition",
+    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition/Networking Reading Order — DevOps Roadmap.md",
+    "Devops cloud/BOOK Computer Networking A Top-Down Approach Ninth Edition",
+    "Devops cloud/BOOK Operating Systems Three Easy Pieces/part 1 Virtualization.md",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction.md",
-    "Who say python easy",
+    "Devops cloud/resources.md",
     "Devops cloud/Linux & OS Internals/User Space vs Kernel Space.md",
+    "Devops cloud/Prompted.md",
     "Excalidraw/Resources.md",
     "Devops cloud/images",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces",
     "Devops cloud/BOOK Operating Systems Three Easy Pieces/Introduction to Operating Systems",
+    "Devops cloud/DEVOPS_ROADMAP.md",
     "learn RAG/woking with vectors.md",
     "Excalidraw/Drawing 2026-11-02 09.25.56.excalidraw.md",
     "Excalidraw/Drawing 2026-11-01 11.46.43.excalidraw.md",
+    "learn RAG/Introduction to RAG(Retrieval Augmented Generation).md",
     "Excalidraw/Drawing 2026-11-02 14.41.18.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 14.17.24.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 11.05.45.excalidraw.md",
     "Excalidraw/Drawing 2026-11-02 11.02.19.excalidraw.md",
     "learn RAG/Introduction to RAG(Retrieval Augmented Generation) 1.md",
     "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
-    "Excalidraw/Scripts/Downloaded"
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Welcome.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Vault is just a local folder.md",
+    "squashfs-root/resources/obsidian.asar/sandbox/Start here.md"
   ]
 }
